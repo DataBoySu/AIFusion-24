@@ -1,3 +1,4 @@
+# AI Fusion 2024 Submission by Anshuman Singh from Team Onomatopoeia
 💼 Loan Acceptance Prediction Model
 
 This project is all about building a machine learning model to predict 🎯 customer loan acceptance based on a variety of demographic, financial, and behavioral features. The dataset includes information like age, income, family members, education level, years of professional experience, and more. 🏦
